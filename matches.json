@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://i.pinimg.com/originals/26/5b/25/265b255027dd8a32e23b82e14871f9fd.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -19,7 +19,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Estádio Centenário",
-      "imagem": "TODO"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
     },
     "mandante": {
       "nome": "Uruguai",
@@ -35,7 +35,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Morumbi",
-      "imagem": "TODO"
+      "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2021/10/estadio-do-morumbi-vista-aerea.jpg"
     },
     "mandante": {
       "nome": "Brasil",
