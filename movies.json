@@ -1,0 +1,15 @@
+[
+  {
+    "id": 0,
+    "titulo": "Titanic",
+    "descricao": "Jack Dawson (Leonardo DiCaprio) é um jovem aventureiro que, na mesa de jogo, ganha uma passagem para a primeira viagem do transatlântico Titanic.",
+    "imagem": "https://m.media-amazon.com/images/I/51mTtUGvUCL.jpg",
+    "dataLancamento": "16/01/1998" 
+  },{
+    "id": 1,
+    "titulo": "Central do Brasil",
+    "descricao": "Em Central do Brasil, Dora (Fernanda Montenegro) trabalha escrevendo cartas para analfabetos na estação Central do Brasil, no centro da cidade do Rio de Janeiro.",
+    "imagem": "https://ccaminha.files.wordpress.com/2014/05/06-central-do-brasil.jpg",
+    "dataLancamento": "03/04/1998"
+  }
+]
